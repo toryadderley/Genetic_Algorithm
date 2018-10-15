@@ -1,5 +1,6 @@
 # Genetic_Algorithm
 
+Used a genetic algorithm to produce video game robots capable of beating a game. 
 
 ### Demonstrations
 
